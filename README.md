@@ -1,1 +1,1 @@
-# Sales-Admin-Dashboard-Laravel
+# laravel-admin-dashboard
