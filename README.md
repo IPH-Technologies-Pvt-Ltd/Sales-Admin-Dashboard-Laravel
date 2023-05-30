@@ -78,3 +78,9 @@ If you encounter any problems or have any questions, please contact the project 
 ## Acknowledgements
 
 We would like to thank the Laravel community for their excellent framework and documentation, which which greatly facilitated the development of this project.
+
+## Screenshot
+<img src="https://github.com/IPH-Technologies-Pvt-Ltd/Sales-Admin-Dashboard-Laravel/assets/94104772/46e4602d-89a3-4ed5-870b-00647a250bda" 
+     width="800" 
+     height="450"/>
+
