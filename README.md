@@ -1,4 +1,9 @@
 # Sales Admin Dashboard
+[![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PHP](https://img.shields.io/badge/php-%2320232a.svg?style=for-the-badge&logo=php&logoColor=%23777BB4)](https://www.php.net/)
+[![Blade](https://img.shields.io/badge/blade-%2320232a.svg?style=for-the-badge&logo=laravel&logoColor=%23FF2D20)](https://laravel.com/docs/blade)
+[![CSS](https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SCSS](https://img.shields.io/badge/scss-%2320232a.svg?style=for-the-badge&logo=sass&logoColor=%23CC6699)](https://sass-lang.com/)
 
 This project is a Sales Admin Dashboard built using the Laravel framework. The dashboard provides a user-friendly interface for managing sales-related data and generating reports. This README file provides an overview of the project, installation instructions, and other relevant information.
 
